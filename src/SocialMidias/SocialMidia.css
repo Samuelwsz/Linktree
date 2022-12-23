@@ -1,0 +1,22 @@
+a{
+  text-decoration: none;
+  color: var(--color-bg);
+  background-color: var(--color-secondary);
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  border-radius: 12px;
+  font-weight: 600;
+  font-size: 1.2em;
+  margin: 15px;
+  padding: 15px;
+  transition: .3s ease-in;
+}
+a:hover{
+  transform:  scale(1.03);
+}
+.content_links{
+  max-width: 800px;
+  margin: auto;
+}

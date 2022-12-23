@@ -1,0 +1,15 @@
+.perfil_content {
+  margin: 35px 0;
+  text-align: center;
+  color: var(--color-tertiary);
+}
+.perfil_image {
+  display: block;
+  width: 96px;
+  height: 96px;
+  margin: auto;
+  background-image: url("../assets/pc.jpg");
+  background-size: cover;
+  border-radius: 50%;
+  background-repeat: no-repeat;
+}
